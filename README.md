@@ -29,11 +29,8 @@ This is the first stage of the project focusing on the frontend design and layou
  ## Future Improvements
 
 * Interactive menu (click category to view dishes)
-* Backend integration
 * Online ordering system
+* Backend integration 
 * AI-based recommendations
 
-##  Author
 
-Rachana Hebbar
-Computer Science Student at  RV College of Engineering
